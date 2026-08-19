@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GithubActionsHandling</string>
+    <string name="githubtest">GithubTest</string>
 </resources>

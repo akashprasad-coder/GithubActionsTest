@@ -6,6 +6,10 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="GithubTest"/>
+        android:text="@string/githubtest"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="50dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
